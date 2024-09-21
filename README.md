@@ -2,7 +2,7 @@
 This is a summary of all my projects through my school years
 
 # Optimizing Basketball Trajectory
-* Collaboration effort with Dr. Ross Greer
+* Conducted research with Professor Ross Greer at UC Merced to utilize computer vision and image segmentation to optimize basketball shot trajectory. Created a hyper-personalized feedback mechanism for players on my varsity basketball team. Published and presented paper at IEEE MIT Undergraduate Research Technology Conference (Technology of Engineering).
 
 
 # QuickAlert
