@@ -1,5 +1,5 @@
 # Projects
-This is a summary of all my projects through my school years
+Below are descriptions and visuals for my computer science and engineering projects.
 
 # Optimizing Basketball Trajectory
 * Conducted research with Professor Ross Greer at UC Merced to utilize computer vision and image segmentation to optimize basketball shot trajectory. Created a hyper-personalized feedback mechanism for players on my varsity basketball team.
