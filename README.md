@@ -10,7 +10,8 @@ This is a summary of all my projects through my school years
 
 
 # QuickAlert
-* Developed an iOS app (QuickAlert) using SwiftUI to help students manage course deadlines through push notifications, suggesting when to start assignments/tests. Trained regression ML models for personalized notifications. Received supported from school district's Coordinator of Instructional Technology and AP Computer Science A teacher.
+* Developed an iOS app (QuickAlert) using SwiftUI to help students manage course deadlines through push notifications, suggesting when to start assignments/tests.
+* Received supported from school district's Coordinator of Instructional Technology and AP Computer Science A teacher.
 * <img width="1027" alt="Screenshot 2024-09-27 at 4 54 41 PM" src="https://github.com/user-attachments/assets/73cf5c1c-1b24-4602-88d6-f4870e730edf">
 
 
