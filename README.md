@@ -4,13 +4,13 @@ This is a summary of all my projects through my school years
 # Optimizing Basketball Trajectory
 * Conducted research with Professor Ross Greer at UC Merced to utilize computer vision and image segmentation to optimize basketball shot trajectory. Created a hyper-personalized feedback mechanism for players on my varsity basketball team.
 * **Published and presented paper at the 2024 IEEE MIT Undergraduate Research Technology Conference (Technology of Engineering).**
+* <img width="1028" alt="Screenshot 2024-09-27 at 4 54 08 PM" src="https://github.com/user-attachments/assets/d2e5f607-b96f-4434-b312-052416d48db2">
+
+
 
 
 # QuickAlert
 * Developed an iOS app (QuickAlert) using SwiftUI to help students manage course deadlines through push notifications, suggesting when to start assignments/tests. Trained regression ML models for personalized notifications. Received supported from school district's Coordinator of Instructional Technology and AP Computer Science A teacher.
-<img src="https://github.com/user-attachments/assets/4ba77367-28eb-4f96-bcec-c46fdd7d5578" width="200" alt="Thumbnail">
-<img src="https://github.com/user-attachments/assets/e7da129f-3f95-4053-b035-4e7f4a9bf371" width="200" alt="Thumbnail">
-<img src="https://github.com/user-attachments/assets/86a9b54e-e3da-4eb6-9e47-702f836caf65" width="200" alt="Thumbnail">
-<img src="https://github.com/user-attachments/assets/3bb9e89b-9229-4637-9747-bd3a0f496169" width="200" alt="Thumbnail">
-<img src="https://github.com/user-attachments/assets/8a05989b-72c6-414d-b59c-f5d915c2669f" width="200" alt="Thumbnail">
+* <img width="1027" alt="Screenshot 2024-09-27 at 4 54 41 PM" src="https://github.com/user-attachments/assets/73cf5c1c-1b24-4602-88d6-f4870e730edf">
+
 
