@@ -7,7 +7,8 @@ Below are descriptions and visuals for my computer science and engineering proje
 * **Published and presented paper at the 2024 IEEE MIT Undergraduate Research Technology Conference (Technology of Engineering).**
 * <img width="1028" alt="Screenshot 2024-09-27 at 4 54 08 PM" src="https://github.com/user-attachments/assets/d2e5f607-b96f-4434-b312-052416d48db2">
 
-Link to Research Paper: 
+Link to Research Paper: [Vasisht_Basketball_Detection_for_Angle_Correction-1.pdf](https://github.com/user-attachments/files/17171715/Vasisht_Basketball_Detection_for_Angle_Correction-1.pdf)
+
 _________________________________________________________________________________________________________________________________________
 
 
