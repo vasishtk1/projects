@@ -20,4 +20,10 @@ ________________________________________________________________________________
 * <img width="1027" alt="Screenshot 2024-09-27 at 5 41 27 PM" src="https://github.com/user-attachments/assets/b8866876-19e4-46f6-a48a-a4ad69e2cc8f">
 
 
+_________________________________________________________________________________________________________________________________________
 
+# Stanford Summer Session - Analyzing Successful Factors of Box Office Success
+* Completed Data Science 112 course under Professor Alex Dekhtyar in Summer 2024. Grade:A
+* Learned core ML techniques in Python (Sci-kit, Pytorch, and natural language processing). 
+* Capstone project with undergraduates to predict box-office success using advanced ML techniques
+* <img width="1027" alt="Screenshot 2024-09-29 at 8 15 08 PM" src="https://github.com/user-attachments/assets/f56cc91c-3912-46f6-bd9b-e5aebb32b6e4">
